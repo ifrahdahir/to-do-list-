@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My To Do's</title>
+    <link rel="stylesheet" href="style/style.css" />
+    <script src="js/script.js" defer></script>
+</head>
+<body>
+  <div class="container">
+   <div class="header"></div>
+    <h1 class="todo-title"> My To-Do List</h1>
+</div>
+
+<input
+type="text"
+id="my-input"
+placeholder="What do I need to do...?"/>
+<div class="add-tasks">
+    
+</div>
+<button onclick="" class="add-button">Add a task</button>
+</div>
+</div>
+
+
+<ul id="my-list">
+    <li>Hit the gym</li>
+    <li class="checked">Pay bills</li>
+    <li>Meet George</li>
+    <li>Buy eggs</li>
+    <li>Read a book</li>
+    <li>Organize office</li>
+  </ul>
+</body>
+</body>
+</html>
+
